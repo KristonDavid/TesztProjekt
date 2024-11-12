@@ -1,3 +1,3 @@
 # TesztProjekt
 
-yes-yes
+Helyben módosítok dolgokat, sálálá...
